@@ -1,0 +1,37 @@
+h1, h3,
+{
+    text-align:left;
+}
+h3, footer
+{
+    background-color:black;
+    color:white;
+    font-size:0.8em;
+    margin-bottom:0px;
+    padding: 10px;
+
+}
+.news p 
+{
+    background-color:#AC2552;
+    color:white;
+    margin-top:0px;
+    font-size: :1em;
+    padding: 10px;
+   
+}
+.news
+{
+    width:90%;
+    margin:auto;
+}
+
+form{
+    text-align: left;
+    font-size: :0.5em;
+            }
+a{
+    text-decoration: none;
+    color: #25AC7F;
+}
+
